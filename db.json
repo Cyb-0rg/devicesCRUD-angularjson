@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "firstname": "device",
+      "lastname": "4",
+      "birthdate": "2022-12-30",
+      "gender": "m",
+      "education": "South Africa",
+      "company": "Microsoft",
+      "jobExperience": 24252531,
+      "salary": 525234234,
+      "profile": "Device2.png",
+      "id": 14
+    },
+    {
+      "firstname": "device",
+      "lastname": "6",
+      "birthdate": "2022-12-29",
+      "gender": "m",
+      "education": "Brazil",
+      "company": "LG",
+      "jobExperience": 653642556,
+      "salary": 45364266,
+      "profile": "device6.png",
+      "id": 19
+    },
+    {
+      "firstname": "device",
+      "lastname": "3",
+      "birthdate": "2022-12-15",
+      "gender": "f",
+      "education": "India",
+      "company": "sony",
+      "jobExperience": 425232343,
+      "salary": 425232346,
+      "profile": "device4.png",
+      "id": 20
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
